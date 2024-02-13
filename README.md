@@ -1,15 +1,32 @@
 # 基本
 
-- 社会保険=年金+健康保険+介護
+- 社会保険=年金+健康+介護
 - 年金=老齢+障害+遺族
-- 健康保険のモラルハザード
+- 厚生年金+国民年金保険+共済
+- 健康保険の破綻
   - 負担率の問題
+  - 後期高齢者医療制度の失敗
+  - 国庫支出の想定外の現役負担
 - 年金の欺瞞
   - 将来世代の支払いは約束しない
   - 誰が痛みを負担するか
-
-
-
+  - 世代間不公平
+  - 水面下で始まる実質的積立方式への移行
+- 国は約束しない: ルールメーカーはルールを「見直す」
+  - 国民年金保険の「上限変更」
+- 制度が世代間闘争を引き起こした
+  - 世代内不公平は言い訳にならない
+  - 賦課方式の人口成長率への依存
+- シルバー民主主義が暴力革命を肯定
+  - 人口と投票率
+- 社会実験としての社会保険制度: 浅い歴史
+- 再分配としての社会保障
+- 医療へのアクセスのハードルを上げるという解決
+  - 老人の数を減らす
+  - 老人への支給を減らす
+- 国民年金保険の未納と厚生年金の天引き
+- 第三号保険者の見直し
+- 
 
 ## 基礎情報
 
@@ -23,7 +40,7 @@
 ### 年金額の改定の仕組み
 
 - [年金額改定の仕組み・見通し・注目ポイント](https://www.nli-research.co.jp/report/detail/id=73058?site=nli)
-- [https://www.nenkin.go.jp/service/kokunen/hokenryo/hokenryogaku.files/01.pdf](https://www.nenkin.go.jp/service/kokunen/hokenryo/hokenryogaku.files/01.pdf)
+- [将来の国民年金保険料額の決め方](https://www.nenkin.go.jp/service/kokunen/hokenryo/hokenryogaku.files/01.pdf)
 
 ### 在職老齢年金
 
@@ -43,7 +60,7 @@
 
 ## なぜ賦課方式を選んだか
 
-- [日本の公的年金制度における財政方式の変遷](https://www.mof.go.jp/pri/international_exchange/kouryu/fy2019/chnjpn2.pdf) from [ref](https://ndlsearch.ndl.go.jp/books/R000000004-I029952873)
+- [日本の公的年金制度における財政方式の変遷: 基礎モデルを元に](https://www.mof.go.jp/pri/international_exchange/kouryu/fy2019/chnjpn2.pdf) from [ref](https://ndlsearch.ndl.go.jp/books/R000000004-I029952873)
 
 ## 欺瞞
 
