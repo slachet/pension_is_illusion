@@ -26,12 +26,15 @@
   - 老人への支給を減らす
 - 国民年金保険の未納と厚生年金の天引き
 - 第三号保険者の見直し
-- 
+
+[令和６年度の年金額改定についてお知らせします](https://www.mhlw.go.jp/content/12502000/001040881.pdf)
+
 
 ## 基礎情報
 
 - [年金制度基礎資料集](https://www.mhlw.go.jp/content/12500000/001167825.pdf) from [ref](https://www.mhlw.go.jp/stf/nenkin_shikumi.html)
 - [年金制度の仕組み](https://www.mhlw.go.jp/stf/nenkin_shikumi.html)
+
 
 ### 歴史
 
@@ -39,19 +42,33 @@
 
 ### 年金額の改定の仕組み
 
+Phase #1: 物価と賃金と前年の改定率に基づいて改定率を決定
+Phase #2: #1の変化率がプラスだった場合、人口の変動に基づいてマクロ経済スライドを適用
+Pahse #3: #2を適用してもなおプラスの場合、前年までのキャリーーオーバがあれば、キャリーオーバーを適用
+
+
+Phase #1について
+- [なぜ2種類の裁定？](https://siaa.or.jp/column/103)
 - [年金額改定の仕組み・見通し・注目ポイント](https://www.nli-research.co.jp/report/detail/id=73058?site=nli)
 - [将来の国民年金保険料額の決め方](https://www.nenkin.go.jp/service/kokunen/hokenryo/hokenryogaku.files/01.pdf)
 
 ### 在職老齢年金
 
 - [働きながら年金を受給する方へ](https://www.nenkin.go.jp/tokusetsu/zairou.html)
-
+- [高齢期の就労と年金受給の在り方](https://www.mhlw.go.jp/file/05-Shingikai-12601000-Seisakutoukatsukan-Sanjikanshitsu_Shakaihoshoutantou/0000059805.pdf) from [第２５回社会保障審議会年金部会　資料](https://www.mhlw.go.jp/stf/shingi2/0000059804.html)
 
 ## マクロ経済スライド
 
 ### 基礎
 
 - [マクロ経済スライドの現状と課題（発動と終了の条件）](https://www.ipss.go.jp/syoushika/bunken/data/pdf/sh20040406.pdf)
+- [年金額の改定（スライド）の在り方 {物価・賃金変動のマトリックスと年金改定基準}](https://www.mhlw.go.jp/file/05-Shingikai-12601000-Seisakutoukatsukan-Sanjikanshitsu_Shakaihoshoutantou/0000061312.pdf) from [第２６回社会保障審議会年金部会　資料](https://www.mhlw.go.jp/stf/shingi2/0000061265.html)
+- [特集「2021年4月から変わる 年金額の改定ルール見直しのポイント」](https://cs.sonylife.co.jp/lpv/pcms/sca/ct/special/finance/index2104a.html)
+- [2021年度の年金額は、現役賃金と同様に0.1％の減額 （前編）－2021年度から変わる年金額改定ルールの経緯や意義](https://www.nli-research.co.jp/report/detail/id=66778?pno=2&site=nli)
+
+### 基礎年金と厚生年金のそれぞれについてスライド
+- [マクロ経済スライドの調整期間の一致{年金財政など詳細含む}](https://www.mhlw.go.jp/content/12601000/001169529.pdf) from [第９回社会保障審議会年金部会](https://www.mhlw.go.jp/stf/shingi2/nenkin_2311211.html)
+
 
 ### キャリーオーバー
 
